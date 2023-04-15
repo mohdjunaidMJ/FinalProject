@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvUrl" type="id"/>
+    <item name="btnViewTopics" type="id"/>
+    <item name="my_toolbar" type="id">my_toolbar</item>
+</resources>

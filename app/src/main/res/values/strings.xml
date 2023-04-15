@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="id">news</string>
+    <string name="news">news</string>
+    <string name="Imageview">Imageview</string>
+    <string name="help_title">help_title</string>
+    <string name="search_help">search_help</string>
+    <string name="login_help_menu">login_help_menu</string>
 </resources>

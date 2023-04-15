@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">अंतिम परियोजना</string>
+    <string name="id">समाचार</string>
+    <string name="news">समाचार</string>
+    <string name="Imageview">छवि दृश्य</string>
+    <string name="help_title">मदद का शीर्षक</string>
+    <string name="search_help">खोज मदद</string>
+    <string name="login_help_menu">लॉगिन मदद मेनू</string>
+</resources>
