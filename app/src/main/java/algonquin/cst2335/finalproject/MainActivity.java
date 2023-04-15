@@ -126,6 +126,7 @@ public class MainActivity extends AppCompatActivity {
                 builder.setTitle(getString(R.string.help_title));
                 builder.setMessage(getString(R.string.login_help_menu));
                 // Add an "OK" button to dismiss the dialog
+
                 builder.setPositiveButton("OK", (dialog, which) -> dialog.dismiss());
                 // Show the AlertDialog
                 builder.show();
